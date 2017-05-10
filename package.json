@@ -3,6 +3,6 @@
   "description": "a really cool app",
   "version": "0.0.1",
   "engines": {
-    "npm": "2.1.x"
+    "npm": "6.2.1"
   }
 }
